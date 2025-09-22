@@ -1,0 +1,1 @@
+Веса модели можно скачать по ссылке и положить в корневую директорию : https://drive.google.com/file/d/1-Ch0_b0lSznnx0rVxTiVVnIdmhezUlHk/view?usp=sharing
